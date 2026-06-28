@@ -1,0 +1,2 @@
+# Neural-Network-Based-Digital-Predistortion-DPD-on-FPGA-for-RF-Power-Amplifier-Linearization
+Research and Development of Neural Network based DPD framework for RF power amplifier linearization, encompassing behavioural modelling, inverse modelling, fixed-point optimization, and FPGA implementation. Project integrates machine learning, digital signal processing with hardware design methods to enable efficient real-time deployment on FPGA.
